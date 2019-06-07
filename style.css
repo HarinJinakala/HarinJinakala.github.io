@@ -17,6 +17,7 @@
             }
         .box
 {background:#ffeaa7;
+    background-image:url("profile.jpg");
     margin:50px 200px;
     padding:100px 100px;
 }
