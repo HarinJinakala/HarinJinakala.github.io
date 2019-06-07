@@ -1,69 +1,32 @@
-<!Doctype html>
-<html>
-    <head>
-    <meta charset="utf-8">
-        <title> my first web page</title>
-        <meta name="keywords"
-              content ="my page ,my website,first page">
-        <style>
-            h1{color:#c12626;
-            background:#55efc4;
+
+            h1{
+                color:#c12626;
+         
             }
-           h3
+           h2
             {
-                color:red
+                color:red;
             }
             p
             {
-                color:mediumvioletred
+                color:mediumvioletred;
             }
             body
             {
-                background: silver
+                background:lightblue;
             }
+        .box
+{background:#ffeaa7;
+    margin:50px 200px;
+    padding:100px 100px;
+}
+#image
+{width:200px;
+    height:200px;
+    border:10px solid red;
+    border-radius: 80px;
+}
         
         
         
-        
-        </style>
-    </head>
-    <body> Harin<br>
-    <p>Today is my first class for coding bootcamp and we have learned html css javascript php and mysql and this page is completely created by me in the class</p>
-    <h1>Sample code</h1>
-    <h3>
-    hobbies</h3>
-    <ol>
-    <li>dancing</li>
-    <li>eating</li>
-    <li>fitness</li>
-    </ol>
-    <h3>Skills</h3>
-        <ul>
-        <li>programming</li>
-        <li>hacking</li>
-        <li>playing</li> 
-        </ul>
-        <h3>education</h3>
-        <table border=3>
-<tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-        </table>
-
-    
-    </body>
-</html>
-
-    
+       
